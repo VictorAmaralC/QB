@@ -1,0 +1,21 @@
+Itens: canivete, machado, corda, mochila, saco de dormir, barraca, comida enlatada, água potável, cogumelos, frutas, água do lago, vara de pescar, peixe, rádio, sinalizador, isqueiro, kit de reparos, combustível, pista1, pista2, pá, gancho, pedra misteriosa, lanterna, kit de primeiros socorros, mapa, paraqueda rasgado, paraqueda novo.
+Os itens começam em cenários aleatórios, com exceção de alguns itens principais necessários para avançar na história.
+
+Itens que podem ser criados: jangada fraca (para poder atravessar o rio),
+O jogador começa na floresta densa, apenas com o paraquedas rasgado e um relógio que mostra a temperatura.
+Em cada dia, o jogador pode realizar um certo número de ações. O dia termina quando não há mais ações disponíveis ou o jogador decide terminar o dia intencionalmente. Ao final de cada dia, o jogador terá a opção de comer, beber ou montar acampamento, se tiver os recursos necessários.
+A única informação na tela é a temperatura e o horário. A temperatura é gerada aleatoriamente dentro de um intervalo. O horário passa de acordo com as ações tomadas.
+Não há barra de fome nem de sede. O personagem vai informar através de diálogos casuais o que está sentindo.
+Copiloto morre por mal-funcionamento do paraquedas, caindo no barranco ou perto do avião.
+Para atravessar o lago, é necessário construir a jangada, mas não precisa do paraquedas.
+
+Formas de escapar da ilha:
+·   	Sobreviver por 15 dias in-game.
+·   	Construir uma jangada utilizando o machado, o paraquedas novo e 4 dias in-game.
+·   	Encontrar o sinalizador, esperar por um avião ou barco e disparar o sinalizador (o avião poderá ser ouvido e o barco somente visto da praia ou do penhasco).
+·   	Encontrar o kit de reparos, consertar o rádio, pedir socorro e esperar 4 dias in-game.
+Formas de morrer:
+·   	Passar 4 dias sem comer.
+·   	Passar 2 dias sem tomar água.
+·   	Dormir descoberto/sem fogueira em noites muito frias.
+·   	Explorar a caverna sem iluminação.
